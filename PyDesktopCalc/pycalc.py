@@ -13,7 +13,7 @@ WINDOW_SIZE = 235
 
 #creates the PyCalcWindow class to provide the app’s GUI. Note that this class inherits from QMainWindow.
 Class PyCalcWindow(QMainWindow):
-    ""PyCalc's main window (GUI or view)."""
+    """PyCalc's main window (GUI or view)."""
 
 #defines the class initializer.
     def__init__(self):
