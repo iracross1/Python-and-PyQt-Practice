@@ -10,3 +10,13 @@ Organize a PyQt app using a proper project layout
 
 Create a fully functional GUI application with PyQt
 ***
+
+***
+Calculator App using the Model-View-Controller design pattern:
+
+1.Model - takes care of app's business logic
+
+2.View - implements app's GUI
+
+3.Controller - connects the model and the view to make application work.
+***
